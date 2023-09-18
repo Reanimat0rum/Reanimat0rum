@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bakakin Pavel
 
-🔭 I’m currently working on medical analitical center of Department of Public Health
+🔭 I’m currently working on medical analitical center of Department of Public Health as analytic
 
 🌱 I’m currently learning product analytics, ML
 
